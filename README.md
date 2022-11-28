@@ -18,7 +18,7 @@ Um site que fala sobre aves exóticas.
 - JavaScript
 
 
-#### 💻 Projeto para estudos ministrado pelo @manualdodev
+#### 💻 Projeto para estudos ministrado pelo André Rafael @origamid
 
 
 
@@ -26,6 +26,6 @@ Um site que fala sobre aves exóticas.
 
 
 
- - [Manual do Dev - Manual do Dev YouTube](https://github.com/manualdodev)
+ - [André Rafael - Origamid](https://github.com/origamid)
 
 
