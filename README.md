@@ -18,14 +18,4 @@ Um site que fala sobre aves exóticas.
 - JavaScript
 
 
-#### 💻 Projeto para estudos ministrado pelo André Rafael @origamid
-
-
-
-
-
-
-
- - [André Rafael - Origamid](https://github.com/origamid)
-
 
